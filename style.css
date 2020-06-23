@@ -1,0 +1,22 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.wrapper .lightbulb {
+    width: 400px;
+    height: 400px;
+}
+
+.on {
+    fill: #FFD517 !important;
+}
